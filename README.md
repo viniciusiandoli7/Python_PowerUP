@@ -1,5 +1,5 @@
 
-<h1 align="center"> 🚀 Python Power Up 🚀<h1>
+<h1 align="center"> 🚀 Python Power Up 🚀</h1>
 
 Esse projeto foi desenvolvido para automação de tarefas, feito em python, e ele realiza  um cadastro de produtos em um sistema de empresa. Ele foi construído para a facilidade de funcionários que precisam abrir a planilha do Excel e cadastrar um por um no sistema da empresa.
 
@@ -63,5 +63,4 @@ Eu conheci esse projeto por propagandas que apareciam para mim, tendo a oportuni
 ## 🙎🏼‍♂️ Autores
 
 Desenvolvido por [Vinicius Iandoli Diogo](https://www.linkedin.com/in/vinicius-iandoli-diogo/)    
-Direcionamento [Joao Lira](https://www.linkedin.com/in/jo%C3%A3o-paulo-rodrigues-de-lira-50664758/)# Python_PowerUP
-# Python_PowerUP
+Direcionamento [Joao Lira](https://www.linkedin.com/in/jo%C3%A3o-paulo-rodrigues-de-lira-50664758/)
