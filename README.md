@@ -64,3 +64,4 @@ Eu conheci esse projeto por propagandas que apareciam para mim, tendo a oportuni
 
 Desenvolvido por [Vinicius Iandoli Diogo](https://www.linkedin.com/in/vinicius-iandoli-diogo/)    
 Direcionamento [Joao Lira](https://www.linkedin.com/in/jo%C3%A3o-paulo-rodrigues-de-lira-50664758/)# Python_PowerUP
+# Python_PowerUP
